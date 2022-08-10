@@ -1,0 +1,19 @@
+
+div.topmost{
+	margin-top:14em;
+	margin-left:25%;
+	margin-right:25%;
+}
+strong.panelinputtitle{
+	font-size:20px;
+}
+body {
+	background: linear-gradient(40deg,#77008cb8,#041158d1);
+  	height: 100vh;
+	font-size: larger ;
+}
+.panel-heading {
+	font-size: 20px;
+	text-align: center;
+	border-radius: 5px;
+}
